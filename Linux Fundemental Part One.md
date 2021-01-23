@@ -1,6 +1,7 @@
 
 
 ## Linux Fundemental Part One
+[Here](https://tryhackme.com/room/linux1) is the link to the TryHackMe room
 ### Tasks
 1. Login into the machine using the SSH protocol, the user name is shiba1, and the password is shiba1.
 
